@@ -34,11 +34,11 @@ This publication constitutes a **public, timestamped, cryptographically verifiab
 
 | Proof Layer | Value |
 |---|---|
-| **Merkle Root Hash (SHA-512)** | `d09aa1615f911659963ac2612c18a63016b15144` |
-| **Git Tree Hash** (`HEAD^{tree}`) | `d09aa1615f911659963ac2612c18a63016b15144` |
-| **RFC 3161 Timestamp Token** | `.timestamps/d09aa1615f911659963ac2612c18a63016b15144.tsr` (FreeTSA.org) |
-| **Redundant Timestamp** | `.timestamps/d09aa1615f911659963ac2612c18a63016b15144.ots` (OpenTimestamps / Bitcoin) |
-| **Date of First Publication** | `2026-03-27T20:47:44Z` |
+| **Merkle Root Hash (SHA-512)** | `47906c03d2e849069912cda368b04a387ffc0fb7` |
+| **Git Tree Hash** (`HEAD^{tree}`) | `47906c03d2e849069912cda368b04a387ffc0fb7` |
+| **RFC 3161 Timestamp Token** | `.timestamps/47906c03d2e849069912cda368b04a387ffc0fb7.tsr` (FreeTSA.org) |
+| **Redundant Timestamp** | `.timestamps/47906c03d2e849069912cda368b04a387ffc0fb7.ots` (OpenTimestamps / Bitcoin) |
+| **Date of First Publication** | `2026-03-27T20:59:00Z` |
 
 The **Merkle root hash** covers every file in this Work as a single, indivisible unit. Altering, adding, or removing any file invalidates the root. This means the Work is protected as a whole — not file by file, but as the complete body of creation it constitutes.
 
