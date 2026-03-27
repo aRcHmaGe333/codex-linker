@@ -17,9 +17,9 @@
   "main": "./extension.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SlavkoStojnic/codex-linker"
+    "url": "https://github.com/aRcHmaGe333/codex-linker"
   },
-  "homepage": "https://github.com/SlavkoStojnic/codex-linker",
+  "homepage": "https://github.com/aRcHmaGe333/codex-linker",
   "contributes": {
     "commands": [
       {
