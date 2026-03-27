@@ -1,0 +1,39 @@
+{
+  "name": "codex-linker",
+  "displayName": "Codex Linker",
+  "description": "Clickable file and folder links for chat-like output in VS Code",
+  "version": "0.1.0",
+  "publisher": "local",
+  "license": "UNLICENSED",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlavkoStojnic/codex-linker"
+  },
+  "homepage": "https://github.com/SlavkoStojnic/codex-linker",
+  "contributes": {
+    "commands": [
+      {
+        "command": "codexLinker.openDemoChat",
+        "title": "Codex Linker: Open Demo Chat"
+      },
+      {
+        "command": "codexLinker.openTranscript",
+        "title": "Codex Linker: Open Demo Transcript"
+      },
+      {
+        "command": "codexLinker.openPath",
+        "title": "Codex Linker: Open Path"
+      }
+    ]
+  }
+}
