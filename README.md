@@ -1,8 +1,10 @@
 # Codex Linker
 
-Makes file and folder paths clickable in VS Code text documents, and includes a demo chat panel that proves the renderer side.
+Codex VSCode produces clickable links that open invalid browser paths instead of workspace files.
+This repo reproduces that failure and provides a working implementation that fixes it.
+It makes file and folder paths clickable in VS Code text documents, and includes a demo chat panel that proves the renderer side.
 
-## What is in this zip
+## Contents
 
 - `extension.js` — the extension
 - `build_vsix.bat` — builds the `.vsix`
