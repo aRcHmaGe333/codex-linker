@@ -1,4 +1,4 @@
-# Codex Linker
+﻿# Codex Linker
 
 Codex VSCode produces clickable links that open invalid browser paths instead of workspace files.
 This repo reproduces that failure and provides a working implementation that fixes it.
@@ -47,3 +47,11 @@ Open any `.md` or `.txt` file, paste paths like the examples above, then Ctrl+cl
 ## IP Claim
 
 This repository includes the IPClaim toolkit and an explicit claim file. See `CLAIM.md` and the `IPClaim/` folder for the license templates, verification instructions, and the timestamping workflow.
+## Support This Work
+
+If this project is useful to you, consider supporting ongoing independent development.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20work-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/earthcraft)
+
+Direct link: https://ko-fi.com/earthcraft
+
